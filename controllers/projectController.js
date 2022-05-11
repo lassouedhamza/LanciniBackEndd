@@ -175,7 +175,7 @@ if(r){
                  <tr>
                    <td style="padding:0;width:50%;" align="left">
                      <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                       &reg; lancini 2022<br/><a href="http://localhost:3000" style="color:#ffffff;text-decoration:underline;">lancini</a>
+                       &reg; lancini 2022<br/><a href="http://lancini-lassouedhamza.vercel.app" style="color:#ffffff;text-decoration:underline;">lancini</a>
                      </p>
                    </td>
                    <td style="padding:0;width:50%;" align="right">
@@ -272,7 +272,7 @@ const message =`<!DOCTYPE html>
 												<td style="width:260px;padding:0;vertical-align:top;color:#153643;">
 													<p style="margin:0 0 25px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;"><img src="https://assets.codepen.io/210284/right.gif" alt="" width="260" style="height:auto;display:block;" /></p>
 													<p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">upload your document in our website  </p>
-													<p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;"><a href="http://localhost:3000/addproject" style="color:#ee4c50;text-decoration:underline;">lancini</a></p>
+													<p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;"><a href="http://lancini-lassouedhamza.vercel.app/addproject" style="color:#ee4c50;text-decoration:underline;">lancini</a></p>
 												</td>
 											</tr>
 										</table>
@@ -287,7 +287,7 @@ const message =`<!DOCTYPE html>
 								<tr>
 									<td style="padding:0;width:50%;" align="left">
 										<p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-											&reg; lancini 2022<br/><a href="http://localhost:3000" style="color:#ffffff;text-decoration:underline;">lancini</a>
+											&reg; lancini 2022<br/><a href="http://lancini-lassouedhamza.vercel.app" style="color:#ffffff;text-decoration:underline;">lancini</a>
 										</p>
 									</td>
 									<td style="padding:0;width:50%;" align="right">

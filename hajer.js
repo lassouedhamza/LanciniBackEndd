@@ -27,7 +27,7 @@ app.use('/banks/upload',banksuploadRoutes)
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 
-app.use(cors({origin:"http://localhost:3000"}));
+app.use(cors({origin:"http://lancini-lassouedhamza.vercel.app"}));
 app.use('/api/events', eventsRouter);
 app.use(express.json());
 app.use(errorHandler);
