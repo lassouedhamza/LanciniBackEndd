@@ -27,7 +27,7 @@ app.use('/banks/upload',banksuploadRoutes)
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 
-app.use(cors({origin:"http://lancini-lassouedhamza.vercel.app"}));
+app.use(cors({origin:"https://lancini.vercel.app"}));
 app.use('/api/events', eventsRouter);
 app.use(express.json());
 app.use(errorHandler);
@@ -73,7 +73,7 @@ app.get("/", (req, res) => {
 
 const getApiAndEmit = async socket => {
     try {
-        const res = await axios.get('https://codeveloperslancini.herokuapp.com/api/events');
+        const res = await axios.get('https://lancini.vercel.app/api/events');
         io.emit('events', res.data);
     } catch (error) {
         console.error(`Error: ${error.code}`);

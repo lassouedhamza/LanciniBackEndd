@@ -175,7 +175,7 @@ if(r){
                  <tr>
                    <td style="padding:0;width:50%;" align="left">
                      <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                       &reg; lancini 2022<br/><a href="http://lancini-lassouedhamza.vercel.app" style="color:#ffffff;text-decoration:underline;">lancini</a>
+                       &reg; lancini 2022<br/><a href="https://lancini.vercel.app" style="color:#ffffff;text-decoration:underline;">lancini</a>
                      </p>
                    </td>
                    <td style="padding:0;width:50%;" align="right">

@@ -76,7 +76,7 @@ exports.registerCreator = async (req, res, next) => {
       const resetToken = creator.getResetPasswordToken();
       await creator.save();
       // Create reset url to email to provided email
-  const resetUrl = `http://lancini-lassouedhamza.vercel.app/passwordreset/${resetToken}`;
+  const resetUrl = `https://lancini.vercel.app/passwordreset/${resetToken}`;
 
   // HTML Message
   const message = `
