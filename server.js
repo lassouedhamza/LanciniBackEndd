@@ -76,7 +76,7 @@ res.sendFile(path.join(__dirname, "public", "ApiFound", "index.html"));
 // socket setup
 const getApiAndEmit = async socket => {
   try {
-      const res = await axios.get('http://127.0.0.1:5000/api/events');
+      const res = await axios.get('https://codeveloperslancini.herokuapp.com/api/events');
       io.emit('events', res.data);
   } catch (error) {
       console.error(`Error: ${error.code}`);
